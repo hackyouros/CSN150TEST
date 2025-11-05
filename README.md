@@ -8,4 +8,7 @@ This is just a test
 
 ~bug 39 video player not working~
 > This is a quote
->
+
+1. List 1
+2. List 2
+3. List 3
